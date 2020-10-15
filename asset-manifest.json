@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/breaking-bad-react-app/static/css/main.5f361e03.chunk.css",
+    "main.css": "/breaking-bad-react-app/static/css/main.0cb8b33b.chunk.css",
     "main.js": "/breaking-bad-react-app/static/js/main.6a911659.chunk.js",
     "main.js.map": "/breaking-bad-react-app/static/js/main.6a911659.chunk.js.map",
     "runtime-main.js": "/breaking-bad-react-app/static/js/runtime-main.5e7aca39.js",
@@ -8,16 +8,16 @@
     "static/js/2.fded6424.chunk.js": "/breaking-bad-react-app/static/js/2.fded6424.chunk.js",
     "static/js/2.fded6424.chunk.js.map": "/breaking-bad-react-app/static/js/2.fded6424.chunk.js.map",
     "index.html": "/breaking-bad-react-app/index.html",
-    "precache-manifest.6ca2ecf799258a722a3befec84a5a37c.js": "/breaking-bad-react-app/precache-manifest.6ca2ecf799258a722a3befec84a5a37c.js",
+    "precache-manifest.9ff44577daa9a9bc029ab9afdd68f809.js": "/breaking-bad-react-app/precache-manifest.9ff44577daa9a9bc029ab9afdd68f809.js",
     "service-worker.js": "/breaking-bad-react-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/breaking-bad-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.0cb8b33b.chunk.css.map": "/breaking-bad-react-app/static/css/main.0cb8b33b.chunk.css.map",
     "static/js/2.fded6424.chunk.js.LICENSE.txt": "/breaking-bad-react-app/static/js/2.fded6424.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/breaking-bad-react-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e7aca39.js",
     "static/js/2.fded6424.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
+    "static/css/main.0cb8b33b.chunk.css",
     "static/js/main.6a911659.chunk.js"
   ]
 }
