@@ -1,25 +1,24 @@
 {
   "files": {
     "main.css": "/breaking-bad-react-app/static/css/main.24bd1911.chunk.css",
-    "main.js": "/breaking-bad-react-app/static/js/main.f965adae.chunk.js",
-    "main.js.map": "/breaking-bad-react-app/static/js/main.f965adae.chunk.js.map",
+    "main.js": "/breaking-bad-react-app/static/js/main.ce869e4a.chunk.js",
+    "main.js.map": "/breaking-bad-react-app/static/js/main.ce869e4a.chunk.js.map",
     "runtime-main.js": "/breaking-bad-react-app/static/js/runtime-main.5e7aca39.js",
     "runtime-main.js.map": "/breaking-bad-react-app/static/js/runtime-main.5e7aca39.js.map",
-    "static/js/2.004e67ac.chunk.js": "/breaking-bad-react-app/static/js/2.004e67ac.chunk.js",
-    "static/js/2.004e67ac.chunk.js.map": "/breaking-bad-react-app/static/js/2.004e67ac.chunk.js.map",
+    "static/js/2.a17a40e1.chunk.js": "/breaking-bad-react-app/static/js/2.a17a40e1.chunk.js",
+    "static/js/2.a17a40e1.chunk.js.map": "/breaking-bad-react-app/static/js/2.a17a40e1.chunk.js.map",
     "index.html": "/breaking-bad-react-app/index.html",
-    "precache-manifest.d799a2c9d5bf3c9acc53e1a4c7e2ba64.js": "/breaking-bad-react-app/precache-manifest.d799a2c9d5bf3c9acc53e1a4c7e2ba64.js",
+    "precache-manifest.32dbde58d4e3c0e7cad6a1a18bd2c546.js": "/breaking-bad-react-app/precache-manifest.32dbde58d4e3c0e7cad6a1a18bd2c546.js",
     "service-worker.js": "/breaking-bad-react-app/service-worker.js",
     "static/css/main.24bd1911.chunk.css.map": "/breaking-bad-react-app/static/css/main.24bd1911.chunk.css.map",
-    "static/js/2.004e67ac.chunk.js.LICENSE.txt": "/breaking-bad-react-app/static/js/2.004e67ac.chunk.js.LICENSE.txt",
+    "static/js/2.a17a40e1.chunk.js.LICENSE.txt": "/breaking-bad-react-app/static/js/2.a17a40e1.chunk.js.LICENSE.txt",
     "static/media/App.css": "/breaking-bad-react-app/static/media/bg.64800ab7.jpg",
-    "static/media/logo.png": "/breaking-bad-react-app/static/media/logo.3795f66d.png",
-    "static/media/logo.svg": "/breaking-bad-react-app/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.png": "/breaking-bad-react-app/static/media/logo.3795f66d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5e7aca39.js",
-    "static/js/2.004e67ac.chunk.js",
+    "static/js/2.a17a40e1.chunk.js",
     "static/css/main.24bd1911.chunk.css",
-    "static/js/main.f965adae.chunk.js"
+    "static/js/main.ce869e4a.chunk.js"
   ]
 }
